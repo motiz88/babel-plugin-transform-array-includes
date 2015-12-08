@@ -1,4 +1,4 @@
-# babel-plugin-array-includes
+# babel-plugin-transform-array-includes
 
 > Replaces `arr.includes(val)` with `arr.indexOf(val) >= 0`.
 
@@ -61,7 +61,7 @@ function foo(arr) {
 ## Installation
 
 ```sh
-$ npm install babel-plugin-array-includes
+$ npm install babel-plugin-transform-array-includes
 ```
 
 ## Usage
